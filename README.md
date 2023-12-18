@@ -19,7 +19,7 @@ npm run build
 ```
 npm run lint
 ```
-### 访问链接<http://39.101.79.18:8082/>
+### 访问链接<http://39.101.79.18:8089/>
 
 ### 界面预览
 ![alt 界面预览](http://39.101.79.18:8090/vue-mapbox-turfjs/%E7%AD%89%E5%80%BC%E5%9B%BE.png)
